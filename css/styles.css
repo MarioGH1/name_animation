@@ -3,11 +3,8 @@ body {
 	font-family: 'Raleway', sans-serif;
 	margin: 0;
 	padding: 0;
-	background-image: url("https://images.pexels.com/photos/574159/pexels-photo-574159.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
-	-webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+	background-color: #000;
+	
 }
 
 .text-container h1 {
